@@ -1,0 +1,9 @@
+Git Server Repository     
+
+1. Git add : in command prompt write git init
+2. git init   git add.TAb      (Staging area)  make use of tab after a name
+            -   git status
+           
+3. git commit-m "message"   -   git commit -m"worked on app.java "
+4. git remote add origin      - git remote  add origin git@github.com:
+5. git push origin master
